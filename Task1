@@ -1,3 +1,5 @@
+Task1- write an sql quirey that for each product returns the total amount of money spend on it. rows should be order in decending alphabatical order by product
+
 create database TASK1 
 USE TASK1
 
